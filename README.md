@@ -5,3 +5,5 @@ Trata-se de um Desafio de otimização, cuja solução foi proposta utilizando P
 ### Instruções de Uso:
 - Abra o arquivo `codigo.ipynb` no Jupyter Notebook.
 - Execute as células de código na ordem especificada.
+
+[Nome do Kanban](link_do_kanban): https://github.com/filipe19/CB-LAB-Desafio-de-Engenharia-de-Dados/issues/1
